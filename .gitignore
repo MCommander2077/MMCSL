@@ -1,0 +1,6 @@
+build/
+dist/
+pack.bat
+pack_config.json
+.idea/
+__pycache__/
